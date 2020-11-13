@@ -1,3 +1,11 @@
 p {
-    text-align: center;
+    text-align: center; background-color: gray;
+}
+
+body {
+    background-color: gray;
+}
+
+em strong {
+    color: red;
 }
